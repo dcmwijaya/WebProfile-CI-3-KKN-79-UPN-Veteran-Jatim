@@ -19,7 +19,7 @@
 ## Cara Menjalankan Web Secara Local
 1. Download repository ini
 2. Extract file yang di download tadi
-3. Buat folder (direktori) baru didalam XAMP (htdocs)
+3. Buat folder (direktori) baru didalam XAMP (htdocs) dengan nama kkn79
 4. Copy & Paste isi folder yang di download tadi ke poin 3
 5. Run Server dengan XAMPP Control Panel
 6. Selesai, selamat menikmati
