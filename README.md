@@ -12,7 +12,7 @@
 | Bagian | Keterangan |
 | --- | --- |
 | Framework | Bootstrap 5, CodeIgniter 3 |
-| Tools | Visual Studio Code, XAMPP (PHP Versi 5 keatas), Git |
+| Tools | Visual Studio Code, XAMPP (PHP Versi 5 keatas), Git, Etc |
 
 <br>
 
