@@ -83,6 +83,7 @@
         }
     </style>
 
+	<!-- By : Devan Cakra Mudra Wijaya Dkk -->
     </body>
 
     </html>
