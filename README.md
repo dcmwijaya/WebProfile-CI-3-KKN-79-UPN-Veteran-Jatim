@@ -3,8 +3,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-purple.svg?&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
 
-# Aplikasi Berbasis Website CI-3 KKN 79 UPN Veteran Jatim
-<p>Aplikasi ini merupakan media informasi yang terstruktur untuk memudahkan penggunanya dalam mengetahui informasi yang edukatif terkait pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan pastinya dapat menghemat waktu dalam mengakses informasi.</p>
+# WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
+<p>Merupakan media informasi yang terstruktur untuk memudahkan penggunanya dalam mengetahui informasi yang edukatif terkait pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan pastinya dapat menghemat waktu dalam mengakses informasi.</p>
 
 <br>
 
