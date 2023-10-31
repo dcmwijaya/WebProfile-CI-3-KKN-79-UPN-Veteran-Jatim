@@ -16,6 +16,22 @@ It is a structured information media to make it easier for users to find out edu
 
 <br>
 
+## Download & Install
+1.XAMPP with PHP version 7.4 :
+```bash
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+```
+2.Visual Studio Code :
+```bash
+https://code.visualstudio.com/docs/?dv=win
+```
+3.Git :
+```bash
+https://git-scm.com/download/win
+```
+
+<br>
+
 ## Running
 1.Download this repository.<br>
 2.Extract the downloaded file.
