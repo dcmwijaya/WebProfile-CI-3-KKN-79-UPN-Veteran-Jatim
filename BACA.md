@@ -39,7 +39,7 @@ kkn79
 ```bash
 C:\xampp\htdocs
 ```
-5.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.
+5.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br>
 6.Silakan buka peramban Anda dengan menulis:
 ```bash
 localhost/kkn79/
