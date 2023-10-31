@@ -35,7 +35,7 @@ https://code.visualstudio.com/docs/?dv=win
 ```bash
 kkn79
 ```
-4.Move the "kkn79" directory into the htdocs directory whose details you can find out as follows:
+4.Move the "kkn79" directory into the htdocs directory, whose details you can find out as follows:
 ```bash
 C:\xampp\htdocs
 ```
