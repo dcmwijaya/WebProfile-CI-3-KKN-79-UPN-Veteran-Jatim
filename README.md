@@ -6,7 +6,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 It is a structured information media to make it easier for users to find out educational information related to community service. The features provided are very easy to use by users (user friendly) and can certainly save time in accessing information.
 
-<br>
+<br><br>
 
 ## Features / Framework / Tools
 | Part | Description |
@@ -14,7 +14,7 @@ It is a structured information media to make it easier for users to find out edu
 | Framework | Bootstrap 5, CodeIgniter 3 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br>
+<br><br>
 
 ## Download & Install
 1.XAMPP with PHP version 7.4 :
@@ -26,7 +26,7 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-window
 https://code.visualstudio.com/docs/?dv=win
 ```
 
-<br>
+<br><br>
 
 ## Running
 1.Download this repository.<br>
@@ -46,7 +46,53 @@ localhost/kkn79/
 ```
 7.Enjoy [Done].
 
-<br>
+<br><br>
+
+## Highlights
+<table>
+<tr>
+<th width="420">Header Website</th>
+<th width="420">Footer Website</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/adbcde7a-ea2f-4293-9ee5-c35f4f470cf0" alt="header"></td>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/c713eb37-0902-48d0-915f-21c490471130" alt="footer"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3">Home View</th>
+</tr>
+<tr>
+<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/47471c4d-e2e8-432e-8a6a-edb686bfda5f" alt="berita-abdimasupn"></td>
+<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/806c349c-60a3-4193-ad1e-24a18e183789" alt="artikel-ilmiah-abdimasupn"></td>
+<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/887b52ae-d4bc-46ee-beff-3a46b4b105e8" alt="modul-abdimasupn"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">News View</th>
+<th width="280">Scientific Articles</th>
+<th width="280">Learning Module</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/17b6110b-6040-40fa-af4e-974d26c03c27" alt="news-view"></td>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/b0f60c14-639f-4585-be27-b0cb0ffe974b" alt="scientific-articles"></td>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/3cfd16fa-915d-47fc-b1d9-7f8fb431d8e4" alt="learning-module"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="280">About Us</th>
+<th width="280">Contact</th>
+</tr>
+<tr>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/25012209-15ce-4fd6-8591-a2f079c50ff3" alt="about-us"></td>
+<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/a4cfafca-54bd-49c7-a802-ef2b32e32df1" alt="contact"></td>
+</tr>
+</table>
+
+<br><br>
 
 ## Team Project
 | N | FULL NAME | STUDY PROGRAM | ROLES |
