@@ -12,7 +12,7 @@ It is a structured information media to make it easier for users to find out edu
 | Part | Description |
 | --- | --- |
 | Framework | Bootstrap 5, CodeIgniter 3 |
-| Tools | Visual Studio Code, XAMPP (PHP Version 5+), Git |
+| Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
 <br>
 
