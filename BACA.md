@@ -39,8 +39,8 @@ kkn79
 ```bash
 C:\xampp\htdocs
 ```
-5.Buka XAMPP, lalu mulai bagian Apache & MySQL. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
-6.Untuk dapat mengakses situs web, bukalah peramban Anda dengan menuliskan:
+5.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.
+6.Silakan buka peramban Anda dengan menulis:
 ```bash
 localhost/kkn79/
 ```
