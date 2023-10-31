@@ -51,8 +51,8 @@ localhost/kkn79/
 ## Highlights
 <table>
 <tr>
-<th width="420">Header Website</th>
-<th width="420">Footer Website</th>
+<th width="420">Website Header section</th>
+<th width="420">Website Footer section</th>
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/adbcde7a-ea2f-4293-9ee5-c35f4f470cf0" alt="header"></td>
