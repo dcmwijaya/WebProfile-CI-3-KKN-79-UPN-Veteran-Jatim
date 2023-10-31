@@ -61,7 +61,7 @@ localhost/kkn79/
 </table>
 <table>
 <tr>
-<th colspan="3">Home View</th>
+<th colspan="3">Home</th>
 </tr>
 <tr>
 <td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/47471c4d-e2e8-432e-8a6a-edb686bfda5f" alt="berita-abdimasupn"></td>
@@ -71,7 +71,7 @@ localhost/kkn79/
 </table>
 <table>
 <tr>
-<th width="280">News View</th>
+<th width="280">News</th>
 <th width="280">Scientific Articles</th>
 <th width="280">Learning Module</th>
 </tr>
@@ -83,8 +83,8 @@ localhost/kkn79/
 </table>
 <table>
 <tr>
-<th width="280">About Us</th>
-<th width="280">Contact</th>
+<th width="420">About Us</th>
+<th width="420">Contact</th>
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/25012209-15ce-4fd6-8591-a2f079c50ff3" alt="about-us"></td>
