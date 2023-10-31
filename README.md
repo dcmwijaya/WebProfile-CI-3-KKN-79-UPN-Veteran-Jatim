@@ -34,7 +34,7 @@ https://git-scm.com/download/win
 
 ## Running
 1.Download this repository.<br>
-2.Extract the downloaded file.
+2.Extract the downloaded file.<br>
 3.Please access the features, enjoy [Done].
 
 <br>
