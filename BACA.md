@@ -6,7 +6,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam mengetahui informasi pendidikan yang berkaitan dengan pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan tentunya dapat menghemat waktu dalam mengakses informasi.
 
-<br>
+<br><br>
 
 ## Fitur / Kerangka Kerja / Peralatan
 | Bagian | Deskripsi |
@@ -14,7 +14,7 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 | Kerangka Kerja | Bootstrap 5, CodeIgniter 3 |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+) |
 
-<br>
+<br><br>
 
 ## Unduh & Instal
 1.XAMPP dengan PHP versi 7.4 :
@@ -26,7 +26,7 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-window
 https://code.visualstudio.com/docs/?dv=win
 ```
 
-<br>
+<br><br>
 
 ## Menjalankan
 1.Unduh repositori ini.<br>
@@ -46,7 +46,7 @@ localhost/kkn79/
 ```
 7.Selamat menikmati [Selesai].
 
-<br>
+<br><br>
 
 ## Proyek Tim
 | N | NAMA LENGKAP | PROGRAM STUDI | PERAN |
