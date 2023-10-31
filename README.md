@@ -31,7 +31,7 @@ https://code.visualstudio.com/docs/?dv=win
 ## Running
 1.Download this repository.<br>
 2.Extract the downloaded file.<br>
-3.Please change the directory name "WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim" to: "kkn79".<br>
+3.Please change the directory name "WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim" to "kkn79".<br>
 4.Move the "kkn79" directory into the htdocs directory whose details you can find out as follows:
 ```bash
 C:\xampp\htdocs
