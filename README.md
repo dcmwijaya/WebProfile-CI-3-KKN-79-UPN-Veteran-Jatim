@@ -25,17 +25,23 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-window
 ```bash
 https://code.visualstudio.com/docs/?dv=win
 ```
-3.Git :
-```bash
-https://git-scm.com/download/win
-```
 
 <br>
 
 ## Running
 1.Download this repository.<br>
 2.Extract the downloaded file.<br>
-3.Please access the features, enjoy [Done].
+3.Please change the directory name "WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim" to: "kkn79".<br>
+4.Move the "kkn79" directory into the htdocs directory whose details you can find out as follows:
+```bash
+C:\xampp\htdocs
+```
+5.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
+6.To access the website, please open your browser by writing:
+```bash
+localhost/kkn79/
+```
+7.Enjoy [Done].
 
 <br>
 
