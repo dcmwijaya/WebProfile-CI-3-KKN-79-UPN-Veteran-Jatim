@@ -39,8 +39,8 @@ kkn79
 ```bash
 C:\xampp\htdocs
 ```
-5.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
-6.To access the website, please open your browser by writing:
+5.To access the website, open XAMPP, then start the Apache section.<br>
+6.Please open your browser by writing:
 ```bash
 localhost/kkn79/
 ```
