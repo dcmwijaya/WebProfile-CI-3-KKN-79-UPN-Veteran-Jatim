@@ -6,7 +6,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 It is a structured information media to make it easier for users to find out educational information related to community service. The features provided are very easy to use by users (user friendly) and can certainly save time in accessing information.
 
-<br><br>
+<br>
 
 ## Features / Framework / Tools
 | Part | Description |
@@ -14,39 +14,42 @@ It is a structured information media to make it easier for users to find out edu
 | Framework | Bootstrap 5, CodeIgniter 3 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br><br>
+<br>
 
 ## Download & Install
-1.XAMPP with PHP version 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP with PHP version 7.4 :
 
-<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+
+2. Visual Studio Code :
+
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
+
+<br>
 
 ## Running
-1.Download this repository.<br>
-2.Extract the downloaded file.<br>
-3.Please change the directory name "WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim" to: 
-```bash
-kkn79
-```
-4.Move the "kkn79" directory into the htdocs directory, whose details you can find out as follows:
-```bash
-C:\xampp\htdocs
-```
-5.To access the website, open XAMPP, then start the Apache section.<br>
-6.Please open your browser by writing:
-```bash
-localhost/kkn79/
-```
-7.Enjoy [Done].
+1. Download this repository.<br>
 
-<br><br>
+2. Extract the downloaded file.<br>
+
+3. Please change the directory name ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` to ``` kkn79 ```.<br>
+
+4. Move the ``` kkn79 ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
+
+5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
+
+6. Please open your browser by writing:<br>
+   ```bash
+   localhost/kkn79/
+   ```
+   
+7. Enjoy [Done].
+
+<br>
 
 ## Highlights
 <table>
@@ -92,7 +95,7 @@ localhost/kkn79/
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## Team Project
 | N | FULL NAME | STUDY PROGRAM | ROLES |
@@ -104,7 +107,7 @@ localhost/kkn79/
 | 5 | Sarah Handayani | Food Technology | Member |
 | 6 | Muhammad Ikhlasurramadhan | Industrial Engineering | Member |
 
-<br><br>
+<br>
 
 ## LICENSE
 MIT License - Copyright (c) 2021 - Devan C. M. Wijaya, S.Kom
