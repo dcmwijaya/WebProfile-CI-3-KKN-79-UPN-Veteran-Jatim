@@ -6,7 +6,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam mengetahui informasi pendidikan yang berkaitan dengan pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan tentunya dapat menghemat waktu dalam mengakses informasi.
 
-<br><br>
+<br>
 
 ## Fitur / Kerangka Kerja / Peralatan
 | Bagian | Deskripsi |
@@ -14,39 +14,42 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 | Kerangka Kerja | Bootstrap 5, CodeIgniter 3 |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+) |
 
-<br><br>
+<br>
 
 ## Unduh & Instal
-1.XAMPP dengan PHP versi 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP dengan PHP versi 7.4 :
 
-<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+
+2. Visual Studio Code :
+
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
+
+<br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file yang diunduh.<br>
-3.Silahkan ubah nama direktori "WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim" menjadi: 
-```bash
-kkn79
-```
-4.Pindahkan direktori "kkn79" ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut:
-```bash
-C:\xampp\htdocs
-```
-5.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br>
-6.Silakan buka peramban Anda dengan menulis:
-```bash
-localhost/kkn79/
-```
-7.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
 
-<br><br>
+2. Ekstrak file yang diunduh.<br>
+
+3. Silahkan ubah nama direktori ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` menjadi ``` kkn79 ```.<br>
+
+4. Pindahkan direktori ``` kkn79 ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
+
+5. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br>
+
+6. Silakan buka peramban Anda dengan menulis:<br>
+   ```bash
+   localhost/kkn79/
+   ```
+   
+7. Selamat menikmati [Selesai].
+
+<br>
 
 ## Sorotan
 <table>
@@ -92,7 +95,7 @@ localhost/kkn79/
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## Proyek Tim
 | N | NAMA LENGKAP | PROGRAM STUDI | PERAN |
@@ -104,7 +107,7 @@ localhost/kkn79/
 | 5 | Sarah Handayani | Teknologi Pangan | Anggota |
 | 6 | Muhammad Ikhlasurramadhan | Teknik Industri | Anggota |
 
-<br><br>
+<br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta (c) 2021 - Devan C. M. Wijaya, S.Kom
