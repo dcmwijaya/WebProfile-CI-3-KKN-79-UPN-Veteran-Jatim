@@ -31,7 +31,7 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 
 <br>
 
-## Menjalankan
+## Memulai
 1. Unduh repositori ini.<br>
 
 2. Ekstrak file yang diunduh.<br>
@@ -106,6 +106,11 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 | 4 | Rendra Anggita Ramadani | Arsitektur | Anggota |
 | 5 | Sarah Handayani | Teknologi Pangan | Anggota |
 | 6 | Muhammad Ikhlasurramadhan | Teknik Industri | Anggota |
+
+<br>
+
+## Penafian
+Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
 <br>
 
