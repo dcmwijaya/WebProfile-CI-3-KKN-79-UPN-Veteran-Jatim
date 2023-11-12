@@ -31,7 +31,7 @@ It is a structured information media to make it easier for users to find out edu
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository.<br>
 
 2. Extract the downloaded file.<br>
@@ -106,6 +106,11 @@ It is a structured information media to make it easier for users to find out edu
 | 4 | Rendra Anggita Ramadani | Architecture | Member |
 | 5 | Sarah Handayani | Food Technology | Member |
 | 6 | Muhammad Ikhlasurramadhan | Industrial Engineering | Member |
+
+<br>
+
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
 <br>
 
