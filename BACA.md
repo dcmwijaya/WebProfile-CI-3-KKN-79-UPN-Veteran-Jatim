@@ -42,7 +42,7 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 
 5. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br>
 
-6. Silakan buka peramban Anda dengan menulis:<br>
+6. Silakan buka ``` peramban ``` Anda dengan menulis:<br>
    ```bash
    localhost/kkn79/
    ```
