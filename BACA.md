@@ -38,11 +38,11 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 
 3. Silahkan ubah nama direktori ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` menjadi ``` kkn79 ```.<br>
 
-4. Pindahkan direktori ``` kkn79 ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
+4. Pindahkan direktori ``` kkn79 ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
 
 5. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br>
 
-6. Silakan buka ``` peramban ``` Anda dengan menulis:<br>
+6. Silakan buka ``` peramban ``` anda dengan menulis:<br>
    ```bash
    localhost/kkn79/
    ```
