@@ -42,7 +42,7 @@ It is a structured information media to make it easier for users to find out edu
 
 5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
 
-6. Please open your browser by writing:<br>
+6. Please open your ``` browser ``` by writing:<br>
    ```bash
    localhost/kkn79/
    ```
