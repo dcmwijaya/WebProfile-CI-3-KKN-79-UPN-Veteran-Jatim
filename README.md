@@ -8,7 +8,7 @@ It is a structured information media to make it easier for users to find out edu
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Framework | Bootstrap 5, CodeIgniter 3 |
