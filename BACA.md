@@ -8,7 +8,7 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Kerangka Kerja | Bootstrap 5, CodeIgniter 3 |
