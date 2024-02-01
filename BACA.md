@@ -1,4 +1,5 @@
 ![HKI](https://img.shields.io/badge/Project-HKI-blue?logo=github&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim)
 ![CI3](https://img.shields.io/badge/-Codeigniter3-blue?style=flat&logo=Codeigniter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-purple.svg?&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
@@ -115,7 +116,7 @@ Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ke
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta (c) 2021 - Devan C. M. Wijaya, S.Kom
+LISENSI MIT - Hak Cipta © 2021 - Devan C. M. Wijaya, S.Kom
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
