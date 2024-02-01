@@ -1,4 +1,5 @@
 ![HKI](https://img.shields.io/badge/Project-HKI-blue?logo=github&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim)
 ![CI3](https://img.shields.io/badge/-Codeigniter3-blue?style=flat&logo=Codeigniter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-purple.svg?&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
