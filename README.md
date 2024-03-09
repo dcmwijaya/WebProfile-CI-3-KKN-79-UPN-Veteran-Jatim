@@ -18,17 +18,25 @@ It is a structured information media to make it easier for users to find out edu
 <br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :
+1. XAMPP with PHP version 7.4
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-2. Visual Studio Code :
+   </td></tr></table>
 
-   ```bash
+2. Visual Studio Code
+
+   <table><tr><td width="810">
+
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
+
+   </td></tr></table>
 
 <br>
 
@@ -44,10 +52,13 @@ It is a structured information media to make it easier for users to find out edu
 5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
 
 6. Please open your ``` browser ``` by writing:<br>
-   ```bash
-   localhost/kkn79/
-   ```
-   
+
+   <table><tr><td width="810">
+
+   ``` localhost/kkn79/ ```
+
+   </td></tr></table>
+	
 7. Enjoy [Done].
 
 <br>
