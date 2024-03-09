@@ -7,7 +7,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam mengetahui informasi pendidikan yang berkaitan dengan pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan tentunya dapat menghemat waktu dalam mengakses informasi.
 
-<br>
+<br><br>
 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
@@ -15,42 +15,47 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 | Kerangka Kerja | Bootstrap 5, CodeIgniter 3 |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+) |
 
-<br>
+<br><br>
 
 ## Unduh & Instal
-1. XAMPP dengan PHP versi 7.4 :
+1. XAMPP with PHP version 7.4
 
-   ```bash
+   <table><tr><td width="810">
+
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-2. Visual Studio Code :
+   </td></tr></table><br>
 
-   ```bash
+2. Visual Studio Code
+
+   <table><tr><td width="810">
+
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-<br>
+   </td></tr></table>
+
+<br><br>
 
 ## Memulai
-1. Unduh repositori ini.<br>
+1. Unduh repositori ini.<br><br>
 
-2. Ekstrak file yang diunduh.<br>
+2. Ekstrak file yang diunduh.<br><br>
 
-3. Silahkan ubah nama direktori ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` menjadi ``` kkn79 ```.<br>
+3. Silahkan ubah nama direktori ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` menjadi ``` kkn79 ```.<br><br>
 
-4. Pindahkan direktori ``` kkn79 ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
+4. Pindahkan direktori ``` kkn79 ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
 
-5. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br>
+5. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br><br>
 
-6. Silakan buka ``` peramban ``` anda dengan menulis:<br>
-   ```bash
-   localhost/kkn79/
-   ```
+6. Silakan buka ``` peramban ``` anda dengan menulis: ``` localhost/kkn79/ ```.<br><br>
    
 7. Selamat menikmati [Selesai].
 
-<br>
+<br><br>
 
 ## Sorotan
 <table>
@@ -96,7 +101,7 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Proyek Tim
 | N | NAMA LENGKAP | PROGRAM STUDI | PERAN |
@@ -108,12 +113,17 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 | 5 | Sarah Handayani | Teknologi Pangan | Anggota |
 | 6 | Muhammad Ikhlasurramadhan | Teknik Industri | Anggota |
 
-<br>
+<br><br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
 
 ## Penafian
 Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
-<br>
+<br><br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta © 2021 - Devan C. M. Wijaya, S.Kom
