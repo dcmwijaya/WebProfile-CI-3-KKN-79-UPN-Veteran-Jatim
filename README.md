@@ -51,13 +51,7 @@ It is a structured information media to make it easier for users to find out edu
 
 5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
 
-6. Please open your ``` browser ``` by writing:<br>
-
-   <table><tr><td width="810">
-
-   ``` localhost/kkn79/ ```
-
-   </td></tr></table>
+6. Please open your ``` browser ``` by writing: ``` localhost/kkn79/ ```.
 	
 7. Enjoy [Done].
 
