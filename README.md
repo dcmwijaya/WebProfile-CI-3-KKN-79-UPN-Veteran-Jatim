@@ -7,7 +7,7 @@
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 It is a structured information media to make it easier for users to find out educational information related to community service. The features provided are very easy to use by users (user friendly) and can certainly save time in accessing information.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -15,7 +15,7 @@ It is a structured information media to make it easier for users to find out edu
 | Framework | Bootstrap 5, CodeIgniter 3 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
 
-<br>
+<br><br>
 
 ## Download & Install
 1. XAMPP with PHP version 7.4
@@ -26,7 +26,7 @@ It is a structured information media to make it easier for users to find out edu
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
 
 2. Visual Studio Code
 
@@ -38,24 +38,24 @@ It is a structured information media to make it easier for users to find out edu
 
    </td></tr></table>
 
-<br>
+<br><br>
 
 ## Get Started
-1. Download this repository.<br>
+1. Download this repository.<br><br>
 
-2. Extract the downloaded file.<br>
+2. Extract the downloaded file.<br><br>
 
-3. Please change the directory name ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` to ``` kkn79 ```.<br>
+3. Please change the directory name ``` WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim ``` to ``` kkn79 ```.<br><br>
 
-4. Move the ``` kkn79 ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
+4. Move the ``` kkn79 ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
 
-5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
+5. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br><br>
 
-6. Please open your ``` browser ``` by writing: ``` localhost/kkn79/ ```.
+6. Please open your ``` browser ``` by writing: ``` localhost/kkn79/ ```.<br><br>
 	
 7. Enjoy [Done].
 
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -101,7 +101,7 @@ It is a structured information media to make it easier for users to find out edu
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Team Project
 | N | FULL NAME | STUDY PROGRAM | ROLES |
@@ -113,17 +113,17 @@ It is a structured information media to make it easier for users to find out edu
 | 5 | Sarah Handayani | Food Technology | Member |
 | 6 | Muhammad Ikhlasurramadhan | Industrial Engineering | Member |
 
-<br>
+<br><br>
 
 ## Appreciation
 If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
-<br>
+<br><br>
 
 ## Disclaimer
 This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2021 - Devan C. M. Wijaya, S.Kom
