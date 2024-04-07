@@ -23,7 +23,7 @@ It is a structured information media to make it easier for users to find out edu
    <table><tr><td width="810">
 
    ```
-   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   https://bit.ly/XAMPP_PHP7_Installer
    ```
 
    </td></tr></table><br>
@@ -33,7 +33,7 @@ It is a structured information media to make it easier for users to find out edu
    <table><tr><td width="810">
 
    ```
-   https://code.visualstudio.com/docs/?dv=win
+   https://bit.ly/VScode_Installer
    ```
 
    </td></tr></table>
