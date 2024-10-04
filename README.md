@@ -1,8 +1,8 @@
-![HKI](https://img.shields.io/badge/Project-HKI-blue?logo=github&color=%23F7DF1E)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim)
-![CI3](https://img.shields.io/badge/-Codeigniter3-blue?style=flat&logo=Codeigniter)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap5-purple.svg?&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-IPR-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 It is a structured information media to make it easier for users to find out educational information related to community service. The features provided are very easy to use by users (user friendly) and can certainly save time in accessing information.
@@ -64,8 +64,8 @@ It is a structured information media to make it easier for users to find out edu
 <th width="420">Website Footer section</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/adbcde7a-ea2f-4293-9ee5-c35f4f470cf0" alt="header"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/c713eb37-0902-48d0-915f-21c490471130" alt="footer"></td>
+<td><img src="documentation/Header.jpg" alt="header"></td>
+<td><img src="documentation/Footer.jpg" alt="footer"></td>
 </tr>
 </table>
 <table>
@@ -73,9 +73,9 @@ It is a structured information media to make it easier for users to find out edu
 <th colspan="3">Home</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/47471c4d-e2e8-432e-8a6a-edb686bfda5f" alt="berita-abdimasupn"></td>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/806c349c-60a3-4193-ad1e-24a18e183789" alt="artikel-ilmiah-abdimasupn"></td>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/887b52ae-d4bc-46ee-beff-3a46b4b105e8" alt="modul-abdimasupn"></td>
+<td width="280"><img src="documentation/Home-1.jpg" alt="home-1"></td>
+<td width="280"><img src="documentation/Home-2.jpg" alt="home-2"></td>
+<td width="280"><img src="documentation/Home-3.jpg" alt="home-3"></td>
 </tr>
 </table>
 <table>
@@ -85,9 +85,9 @@ It is a structured information media to make it easier for users to find out edu
 <th width="280">Learning Module</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/17b6110b-6040-40fa-af4e-974d26c03c27" alt="news-view"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/b0f60c14-639f-4585-be27-b0cb0ffe974b" alt="scientific-articles"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/3cfd16fa-915d-47fc-b1d9-7f8fb431d8e4" alt="learning-module"></td>
+<td><img src="documentation/News.jpg" alt="news"></td>
+<td><img src="documentation/Scientific Articles.jpg" alt="scientific-articles"></td>
+<td><img src="documentation/Learning Module.jpg" alt="learning-module"></td>
 </tr>
 </table>
 <table>
@@ -96,8 +96,8 @@ It is a structured information media to make it easier for users to find out edu
 <th width="420">Contact</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/25012209-15ce-4fd6-8591-a2f079c50ff3" alt="about-us"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/a4cfafca-54bd-49c7-a802-ef2b32e32df1" alt="contact"></td>
+<td><img src="documentation/About Us.jpg" alt="about-us"></td>
+<td><img src="documentation/Contact.jpg" alt="contact"></td>
 </tr>
 </table>
 
@@ -121,12 +121,12 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is the result of my work with my team and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
 
 <br><br>
 
 ## LICENSE
-MIT License - Copyright © 2021 - Devan C. M. Wijaya, S.Kom
+MIT License - Copyright © 2021 - Devan C. M. Wijaya et al
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 

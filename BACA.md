@@ -1,8 +1,8 @@
-![HKI](https://img.shields.io/badge/Project-HKI-blue?logo=github&color=%23F7DF1E)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim)
-![CI3](https://img.shields.io/badge/-Codeigniter3-blue?style=flat&logo=Codeigniter)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap5-purple.svg?&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-IPR-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim
 Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam mengetahui informasi pendidikan yang berkaitan dengan pengabdian masyarakat. Fitur-fitur yang disediakan sangat mudah digunakan oleh pengguna (user friendly) dan tentunya dapat menghemat waktu dalam mengakses informasi.
@@ -64,8 +64,8 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 <th width="420">Website bagian Footer</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/adbcde7a-ea2f-4293-9ee5-c35f4f470cf0" alt="header"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/c713eb37-0902-48d0-915f-21c490471130" alt="footer"></td>
+<td><img src="documentation/Header.jpg" alt="header"></td>
+<td><img src="documentation/Footer.jpg" alt="footer"></td>
 </tr>
 </table>
 <table>
@@ -73,9 +73,9 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 <th colspan="3">Beranda</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/47471c4d-e2e8-432e-8a6a-edb686bfda5f" alt="berita-abdimasupn"></td>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/806c349c-60a3-4193-ad1e-24a18e183789" alt="artikel-ilmiah-abdimasupn"></td>
-<td width="280"><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/887b52ae-d4bc-46ee-beff-3a46b4b105e8" alt="modul-abdimasupn"></td>
+<td width="280"><img src="documentation/Home-1.jpg" alt="home-1"></td>
+<td width="280"><img src="documentation/Home-2.jpg" alt="home-2"></td>
+<td width="280"><img src="documentation/Home-3.jpg" alt="home-3"></td>
 </tr>
 </table>
 <table>
@@ -85,9 +85,9 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 <th width="280">Modul Pembelajaran</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/17b6110b-6040-40fa-af4e-974d26c03c27" alt="news-view"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/b0f60c14-639f-4585-be27-b0cb0ffe974b" alt="scientific-articles"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/3cfd16fa-915d-47fc-b1d9-7f8fb431d8e4" alt="learning-module"></td>
+<td><img src="documentation/News.jpg" alt="news"></td>
+<td><img src="documentation/Scientific Articles.jpg" alt="scientific-articles"></td>
+<td><img src="documentation/Learning Module.jpg" alt="learning-module"></td>
 </tr>
 </table>
 <table>
@@ -96,8 +96,8 @@ Merupakan media informasi yang terstruktur untuk memudahkan pengguna dalam menge
 <th width="420">Kontak</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/25012209-15ce-4fd6-8591-a2f079c50ff3" alt="about-us"></td>
-<td><img src="https://github.com/devancakra/WebProfile-CI-3-KKN-79-UPN-Veteran-Jatim/assets/54527592/a4cfafca-54bd-49c7-a802-ef2b32e32df1" alt="contact"></td>
+<td><img src="documentation/About Us.jpg" alt="about-us"></td>
+<td><img src="documentation/Contact.jpg" alt="contact"></td>
 </tr>
 </table>
 
@@ -121,12 +121,12 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya bersama tim saya dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2021 - Devan C. M. Wijaya, S.Kom
+LISENSI MIT - Hak Cipta © 2021 - Devan C. M. Wijaya dkk
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
